@@ -4,13 +4,13 @@
     <div class="content">
       <h1 class="title">{{ typedText }}<span class="cursor">|</span></h1>
       <p class="subtitle">
-        감정과 이성의 균형 위에서,<br />
+        감정과 초이성의 균형 위에서,<br />
         창조와 해석 사이를 오가는 삶.<br />
         힙합과 뮤지컬 속에서 표현하고,<br />
         광고와 교육의 경험을 넘어,<br />
         나는 인간의 마음을 이해하고 연결하고 싶다.
       </p>
-      <a href="#career" class="cta-button">내 이야기 더 보기 ↓</a>
+      <a href="#career" class="cta-button">내 이야기 더 더 보기 ↓</a>
     </div>
   </section>
 </template>
